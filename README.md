@@ -114,39 +114,40 @@ FamilySize = SibSp + Parch + 1
 
 ### 1. Survival Count
 
-[Insert Image]
+<img width="917" height="544" alt="Survival Count" src="https://github.com/user-attachments/assets/84b282cf-c282-4148-882a-06e5d0c8f354" />
 
 ### 2. Survival by Sex
 
-[Insert Image]
+<img width="914" height="539" alt="Survival by Sex" src="https://github.com/user-attachments/assets/631b96ec-0222-4b97-b09f-552e271b1436" />
 
 ### 3. Survival by Passenger Class
 
-[Insert Image]
+<img width="912" height="549" alt="Survival by Passenger Class" src="https://github.com/user-attachments/assets/e5120816-e4a5-4e4f-8a23-aa896147fd84" />
 
 ### 4. Age Distribution vs Survival
 
-[Insert Image]
+<img width="916" height="545" alt="Age Distribution vs Survival" src="https://github.com/user-attachments/assets/f27f87be-4a5f-4bef-8d6e-f34a2140280d" />
 
 ### 5. Fare vs Survival
 
-[Insert Image]
+<img width="919" height="553" alt="Fare vs Survival" src="https://github.com/user-attachments/assets/f2a229bc-793c-4826-82fb-4d1f2f04a328" />
 
 ### 6. Embarkation Port vs Survival
 
-[Insert Image]
+<img width="915" height="546" alt="Embarkation Port vs Survival" src="https://github.com/user-attachments/assets/d27977bd-7a45-4e94-bbaa-4c5462a906b3" />
 
 ### 7. Family Size vs Survival
 
-[Insert Image]
+<img width="919" height="538" alt="Family Size vs Survival" src="https://github.com/user-attachments/assets/adbe239c-8a09-43ab-8b79-9951b4552385" />
 
 ### 8. Correlation Heatmap
 
-[Insert Image]
+<img width="864" height="535" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/ea166d06-104f-4846-b899-d4f6675153fe" />
 
 ### 9. Pairwise Relationships (Pairplot)
 
-[Insert Image]
+<img width="892" height="800" alt="Pairwise Relationships" src="https://github.com/user-attachments/assets/fb1ab65c-1ce9-4dcc-b7eb-e44c72be64bd" />
+
 
 ---
 
